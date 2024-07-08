@@ -1,10 +1,19 @@
-,,,byqerghhgewdsuhdssx,,,- 👋 Hi, I’m @arashliravi
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-arashliravi/arashliravi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# IM ARASH LIRAVI 
+## IM 14 YEARS OLD
+## IM IRANIAN
+## I LIVE IN BUSHEHR
+## MY GENDER IS MALE
+# MY FAVORITE THINGS
+## IN GAMES
+### I LOVE GOD OF WAR
+### I LOVE LAST OF US
+### I LOVE CALL OF DUTY
+## IN BOOKS
+### I LOVE ZEBERA GLADIATOR 
+### TREE HOUSE
+### HARRY POTTER
+### CASTLE OF AMIMALS
+### THE LITTLE PRINCE 
+### THE POOR
+### CHRISTMAS CAROL
+### UNCLE TOMS CABIN
