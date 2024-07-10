@@ -1,4 +1,4 @@
- # HI 👋 IM ARASH LIRAVI  ![Animation-Photo](https://github.com/arashliravi/arashliravi/assets/143892339/39cb691c-d383-4d16-af6b-0ae7384c3aa4)
+ # HI 👋 IM ARASH LIRAVI 
 
 
 
@@ -37,3 +37,4 @@ I KNOW [**(HTML)**](https://www.google.com/search?q=HTML&sca_esv=c9b1c9efd4a7c50
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=N-Pizll&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 # MY PHONE NUMBER IS 🤙09023710328
+ ![Animation-Photo](https://github.com/arashliravi/arashliravi/assets/143892339/39cb691c-d383-4d16-af6b-0ae7384c3aa4)
