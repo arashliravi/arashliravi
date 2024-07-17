@@ -53,8 +53,8 @@
  <img src="https://camo.githubusercontent.com/cace6ff09c862f24ae3ed77b4ef0014faa4e9696e9836a9ca7f07b077d5ebc69/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5472656c6c6f2d2532333032364141372e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d5472656c6c6f266c6f676f436f6c6f723d7768697465" alt="Trello" data-canonical-src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&amp;logo=Trello&amp;logoColor=white" style="max-width: 100%;">   
 
 
-![](https://github-readme-stats.vercel.app/api?username=N-Pizll&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=N-Pizll&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=N-Pizll&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=N-Pizll&theme=dark&hide_border=false)<br/
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=N-Pizll&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 # HOW TO MASSAGE ME
